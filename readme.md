@@ -23,7 +23,7 @@ This repository contains the freely available source code and assets for the gam
    * **Music:** Unknown author and license
  * **Who to credit:**
    * **Source Code:** Retrocade.net
-   * **Art:** Retrocade.net
+   * **Art:** Aleksander Kowalczyk, Retrocade.net
    * **Sound Effects:** No credit required
    
 ## Licensing
